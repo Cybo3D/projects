@@ -1,5 +1,5 @@
 # projects
-my projects as of july 2024
+my projects as of june 2024
 
 ## THE DOME
 the dome is an fps game im working on with atmospheric horror like elements and with funny monkeys :) (made in unity)
